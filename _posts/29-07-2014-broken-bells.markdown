@@ -10,6 +10,7 @@ categories: Indie music
 	<li>
 		<img src="images/broken-bells.jpg" alt="Tapa del disco de Broken Bells">
 	</li>
+	
 	<li>
 	<p>
 	   Broken Bells es una banda indie-rock estadounidense que la conforma Brian Burton y James Mercer.
