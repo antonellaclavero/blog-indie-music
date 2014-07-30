@@ -412,4 +412,10 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+.post {
+  clear: both;
+}
+img {
+  max-height: 200px;
+  max-width: 200px;
 }
