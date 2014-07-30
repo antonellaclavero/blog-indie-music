@@ -167,6 +167,13 @@ a:visited { color: #205caa; }
   color: #818181;
 }
 
+.home .post-date {
+  display: block;
+}
+.home .post img {
+  width: 100%;
+  display: block;
+}
 
 /* Post styles */
 /* ----------------------------------------------------------*/
@@ -410,12 +417,6 @@ a:visited { color: #205caa; }
     float: none;
     clear: both;
     width: auto;
-    margin: 0 0 15px; }
-
-.post {
-  clear: both;
-}
-img {
-  max-height: 200px;
-  max-width: 200px;
+    margin: 0 0 15px; 
+  }
 }
