@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Phoenix"
+date:   2014-07-30 09:55:00
+categories: Indie music
+---
+<ul>
+	<li>
+          <h3>Phoenix</h3>
+          <img src="images/phoenix.jpg" alt="Tapa del disco de Wolfgang Amadeus Phoenix">
+      </li>
+      <li>
+          <p>
+              Phoenix es un grupo francés de indie rock de vertiente underground formado a finales de los años 90 en Versalles- Francia.
+          </p>
+          <p>
+              Lo conforman por Thomas Mars, Deck d'Arcy, Laurent Brancowitz y Christian Mazzalai.
+              Uno de mis discos favoritos es Wolfgang Amadeus Phoenix
+              Su último disco se lanzo en abril del año 2013 y se titula Bankrupt!
+          </p>
+          <p>
+              El siguiente link es el video clip de una de mis canciones preferidas Lisztomania (del albúm Wolfgang Amadeus Phoenix)        
+          </p>
+      </li>
+      <li>
+          <iframe width="560" height="315" src="//www.youtube-nocookie.com/embed/4BJDNw7o6so" frameborder="0" allowfullscreen></iframe>
+          <!--a href="https://www.youtube.com/watch?v=4BJDNw7o6so">Link a video clip Lisztomania-Phoenix</a-->
+      </li>
+  </ul>
